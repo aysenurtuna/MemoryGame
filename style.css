@@ -1,0 +1,19 @@
+.grid{
+   display: flex;
+   flex-wrap: wrap;
+   width: 500px;
+   height: auto;
+   margin: auto;
+   padding: auto;
+}
+#score{
+    color: brown;
+    text-align: center;
+    margin: 50px;
+    letter-spacing: 2px;
+    margin-right: 130px;
+}
+img{
+  margin: 5px;
+  border-radius: 7px;
+}
